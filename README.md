@@ -1,6 +1,6 @@
 # FNIRS
 
-**Installation**
+**Installation**    :-
 Connect your phone to your laptop/PC through a USB data cable.
 Turn on Bluetooth on both devices and connect them.
 Ensure both devices are connected to the same Wi-Fi network.
@@ -9,7 +9,7 @@ Extract the zip file containing the APK.
 Open the project in Microsoft Visual Studio Code.
 Debug and deploy the APK to your smartphone device.
 
-**Usage**
+**Usage**   :-
 Once the app is installed and deployed on your smartphone, follow these steps to measure brain waves and oxygen levels:
 
 Open the app on your smartphone.
